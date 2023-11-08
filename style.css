@@ -1,0 +1,5 @@
+/* CSS */
+/* Menyembunyikan item navigasi dengan kelas hide-on-register hanya pada halaman register */
+body.register-page .hide-on-register {
+    display: none;
+}
